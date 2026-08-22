@@ -1,0 +1,93 @@
+Yo, how's it going guys? Today I'm going to teach you everything about anime composition. How to animate the eyes, the hair, the body, how to make good lighting and things like that. So, I hope you like it. Please drop a like and let's go. First, I'm going to open a render. I'm going to use this render right here. So, double click and the Photoshop right now. And the Photoshop, After Effects, all the plugins I'm going to use in the After Effects. It's on my address pack. So if you need anything have on my address pack, it's 1 TBTE on the cloud. Okay. And yeah. Yeah. Let's go. First, I'm going to just select the subject right here. I just going to take a look if it's everything perfect. As you can see, yeah, right here. You can
+
+use this to right here also. Holding shift. Okay. Yeah. Yes, that's pretty good. So, and I'm going to click right here on the mask as you can see. Yeah, that's perfect. You can right button right here. Convert to uh smart object. Click again and resize layer. And now I'm going to mask the hair to animated. So, it's a really easy task, but it's a little bit I mean annoying, takes a lot of time, you know.
+
+So, it's going to be really easy. So, I'm just going to select uh the fringe right here and like that. You can use this tool. Yeah, something like this. As you can see, Ctrl J holding control click right here on this layer. Go back to this layer and just um press uh Dell. So, dead to um remove and press Ctrl D to unselect. And as you can see, now it doesn't have this layer, you know. And you're going to do the same for all the other layers. For example, uh this one
+
+right here. Don't need to be like perfect the selection, you know, but make better as possible. Again, Ctrl J holding control click right here and go back to this layer and press down Ctrl D to unselect. And as you can see, yeah. So, I'm going to do it for all the the layers. don't need to be all the hair, you know, just the main ones. So, for example, this right here, this and and this long right here. So, yeah, let's go.
+
+[Music] [Music] As you can see, it looks very good. You can hide all those layers. And as you can see, have those lines right here. So go back to this layer, press E. And you can remove
+
+those things right here. [Music] Yeah, that's very good. But as you can see, it's missing uh some parts of her because yeah, we mask it and we erase it. So yeah, and we need uh fill those parts because if we don't when we animate as you can see it's going to be missing those parts and will not look very good to fill those parts. It is really easy and you for example can make a new layer. Press B and holding alt you can select a color and then select this one and just yeah paint those parts.
+
+Um it is like really easy again but takes a little bit of time you know and it have patience to do this but yeah it's worth it. In the hair right here I'm going to use black. So yeah, doesn't need to look um very good though because the hair it's going to cover, you know. So yeah, when we animate the hair, it's not going to like appear those those parts right here. So doesn't need to look like perfect or something like that. But yeah, try your best to make like good, you know what I mean? Um, yeah, it's that's it. It's not
+
+very very hard to to do, but it takes a lot of time. I recommend you to decrease the hardness because if you don't, it's going to look like this. And as you can see, doesn't look very good. Doesn't match the colors of her, you know. So, yeah. As you can see, do the same for this one. I don't know what is this if is a eyebrow. I don't know. But yeah, just do the same. And again, just yeah, you can use as well a clone stamp tool.
+
+So this tool right here, just go to crow hander layer and just you can increase it. Uh holding out, select a part where you want to clone. For example, this one. and just and get just do this, you know. It's just a example, but I prefer using uh layer right here because if I do anything wrong, I can just uh erase it, you know. So, yeah.
+
+And something cool you can do as well is clicking right here holding shift and for example clicking right here it's going to make this you know so and it is really good to feel those parts it's more easy you know easest I don't know so yeah let's go I'm going to speed up a little bit of the video No.
+
+[Music] [Music] Hey. Hey. [Music] [Music] [Music]
+
+And as you can see, yeah, it looks like this. I mean, it's not perfect, but again, when you enable all the layers, you cannot see uh the flaws, you know, and if you see some flaws, for example, right here, again, can press B. out and just hiding uh those things to look even better.
+
+And right here as well. Right here. Right here. Um yeah, right here. And yeah, for me that's looks very good. I mean, yeah, that's perfect. Now, we're going to make the eyes animation. It is pretty easy. So, press L to go to the store right here. And we're going to mask on the eyes. So, let me see.
+
+I'll get this point right here. Something like this. Ctrl J. Do for the other eye right here. So, Ctrl J again. And we're going to now uh do for the eyebrows. I don't know if if this is the eyebrows, I guess. Just make as well. So, [Music] Okay, I miss click right here. So, holding shift, you can add a selection
+
+and just Yeah, right here. And that's perfect. Ctrl J again. And do for the other eye right here. Yeah. something like this. Ctrl J again. And you're going to hide all those layers. And we're going to erase the the eyes. You know, can enable. You can make a new layer. Press B. And again, just the same as we did before.
+
+The eyes is way more eas to to raise. So yeah. this as well. And do for the other eye. [Music] As you can see right here, it doesn't look very good. You can just and try to match a little bit of the colors, you know, isn't very hard to do right here.
+
+Um, yeah, that's that's good. I can see. Now we're going to just rename the layers to become more easiest to know what is uh what you know like for example this is the hander or again body just double click with the mouse. This is the fill eyes layer. The right eyebrow, the left eyebrow, right eye, and the left eye.
+
+Um, for the hair, I guess doesn't need to just right here. Uh, fill hair layer. And yeah, that's pretty good. Don't forget to save. So, Ctrl S. And we're going to go to After Effects, new composition. Those it's going to be my settings, I guess. Like 5 seconds. That's good. Frame rate. And yeah.
+
+And we're going to just get the layer and drag to the composition. So, it's going to be this one right here. drive to composition and import kind. It's going to be composition. Just click okay. I'm going to press S. I'm going to just decrease it like right here. And don't forget again to save. Ctrl S. I'm going to put grow tutorial. Double click. Then yeah, we have our layer. And those uh layers are here. You can click this one.
+
+putting shift click on this one is the hair. As you can see, you can put another color, for example, green. And for the eyes, you can put another color as well, just to not lose yourself, you know, like have a lot of layers. And yeah, that's pretty fun. Um, for I going to first animate the hair. It's going to be really easy. So, and I'm just going to click right here and click right here. And as you can see, we have our hair. I'm going to click on the puppet tool. And we're going to uh click right here, this point. And click on this point. Those two points are not going to move. Okay.
+
+So, it's just to lock uh this part right here. I'm going to click right here on the middle and just make some points. Something like this. As you can see, again, those two points is just to lock this um the lock the hair, you know, to not like I don't know how can I explain, but yeah, I hope you get it. Just for the other layers. And again, click right here and click right here. And just make uh the the points and this one right here. That's perfect.
+
+Now, we're going to uh click on the first hair, click on the puppet, and you're going to select just those points right here. Not those two. Okay? Just those right here. So, click right here on the shift click on this one, on this one, and on this one. And we're going to use a tool called uh let me see right here. Auto soy. This tool is to animate hair and things like that. and have on my pack. Okay, it's a paid plug-in, but you can have on my pack. Have all the plugins, After Effects, Photoshop, all the everything you need have on my pack and it's really ship. So, I promise you're going to like be careful downloading on the Google or on sites you don't know because can have hours
+
+and infect your computer and you can lose everything and I know you don't want that. So, uh, click apply right here. And just do for the other layer. So, I'm going to unhide I'm going to unhide this. Select the other hair. And you're going to do the same. So, click on the puppet and just select those points right here. Holding shift. Click apply.
+
+Unhide it. This one. Yeah. Click on the puppet again. Select right here. Apply. As you can see, that's perfect. And can happen this right here. You for example can increase a little bit of the scale and just uh make some adjustments. You know, for example, put it right here. Going to increase a little bit more. Or you can go back to the few hair layer, double click, and just um paint a little bit more. So,
+
+I'm going to get this one increase a little bit of the scale as well and just make the for me. The problem is this layer. Just change a little bit the position. And I guess it looks way better again. Just change a little bit of the position, the scale to look like to look perfect, you know. And as you can see, yeah, way better right here.
+
+Right here have this problem. You can again just increase a little bit of the scale and change a little bit of the position. It's a little bit heavy, so be careful. Don't forget to save your project. So, Ctrl S. And now we're going to animate the eyes. And we're going to get uh the left and right eye. So, first the left eye. We're going to go to layer. No. Composition.
+
+Let me see. Yeah, layer. all trace and yeah those is the config just click okay and as you can see it's going to make a mask around the eye and just do the same for the eye right eye so layer I'll trace and apply to another layer yeah that's good so press M and on the left I press M as well get those two key frames and put on the beginning go 10 frames forward. Something like this. And you can just get those points and but right here. Oh, don't forget no change to add. And yeah, that's good.
+
+Just do this right here. [Music] [Music] We're not going to remove this part of the eye. Okay. So, don't do this. Just Yeah, this right here looks very good. And do the same for the other eye. If your eye have a lot of points, you can just click uh new one and just remove it. You know, this helps a little bit more. We don't need a lot of points.
+
+So, yeah, it's it's more easiest to animate because doesn't have a lot of points. Same right here. [Music] And Okay. Yeah, that's good. You can press F and put like five again. Five. And yeah, it looks way better. Now, we're going to uh go to the eyebrow or I don't know what is this. Get a puppet tool. I'm going to just click right here.
+
+And I'm going to make some points like right here. Right here. Oh, right here. Then I guess right here. Don't make a lot of points. Okay. So again, right here as well. Click on this one. This one. This one here. And right here. Okay. That's good. So press U. And on the left, press U as well. Go 10 frames forward. And I'm going to first select the last eyebrow. Click on the puppet.
+
+And we're going to blank right here, you know. Um, put this fill hair layer right here. Let me see [Music] the left eyebrow and the right eyebrow, but above the the eyes. Okay. Yeah, that's perfect. Again, just change this. Something like this. try to make um as clean as possible, you know, like like someone closing his eyes like as can see doesn't look very good. So make changes to look better
+
+and just do the same for the other Brazilio. And just blank right here. And as you can see, yeah, you can just select all the key frames. So, get the um the eyes, press, press, and just F9. Then, F9. It's going to make this effect right here. If you want something more fast, you can just get all the key frames and put a little bit back. Just get uh copy uh the this key frames right here. This
+
+first ones. Go some frames forward. And just paste it. As you can see, we have it. Again, if you find something more fast, just get all the key frames. You can hold alt and just get uh less key frame and yeah do this and just copy and paste all the key frames. So yeah it's not a big deal. For example um I'll get those key frames. Ctrl C.
+
+But like right here, Ctrl + V. Ctrl C. Ctrl + V. And we're going to select this key frame right here. Ctrl C. And again. So I'm put Ctrl + V. Ctrl C. Ctrl V. And again just copy and paste. Copy and paste. Copy and paste. Copy and paste. As you can see, yeah, we have it right here.
+
+We can um get all those layers. Control shift C. move out to boot composition and I can get a puppet to I can make a little animation. So click right here on the head right here and right here for example and just make something like I don't want to start too much. So F9 and and as you can see yeah we have it our body animation and again you can just copy and paste those key frames you know so here paste right here and yeah that's perfect you can prompose
+
+this layer again go control shift C move auto position butize time it's like it change the FPS of the composition and I'm going to blank 15. you can blank uh but whatever you want. But I prefer low FPS because it's like a anime animation, you know, so it doesn't make very sense to like have a higher FPS. And as you can see, yeah, it looks very good. I'm going just um I'm going to change a little bit of this animation right here. I can remove those key frames.
+
+Yeah, that's perfect. That's very good. Can go back. I'm gonna get the background. But like right here on the back, I'm going to increase a little bit of skin. And I'm going to go to the grow, but like curves. Decrease a little bit of the brightness. Something like this. I'm going to put shadow and highlights and put brightness contrast and decrease the brightness.
+
+Something like this. Something like this. Ctrl D on the background layer. I'm going to put like as blur. I'm going to increase something like this. Control shift C and move out to the boot composition. Click okay. You can hide this layer. Go to the grow. You can prempose the control shift C. Move auto button composition and I'm going to put the create light wrap. It's a plug-in for after effects. Again, I have on my pack. Okay. So, I'm going to put the background layer as you can see. Make this effect right here. It can be like
+
+add it can increase the experture and something like this. I'm going to put a curves I'm going to put a curves and get red increase the redness of the layer and put like green bit of purple. Go to blue and put a little bit of purple as well. Yeah. Something like this. I mean a bit tint like red decrease a little bit like eight.
+
+Seven. I can put again a curves and change um yeah something like this. Ctrl D and click right here. Ctrl A click to remove all the effects. I'm going to put the fill and like black. Uh I'm going to duplicate this layer. So control D. Get this layer right here. It's going to just rename shadow and behind this layer right here. Go to to straight mode. Click right here and select the girl layer and press Q to make a mask. Or you can press G and just make a shadow like right here.
+
+Press F. Increase it and decrease a little bit of the opacity. Just change a little bit of the right here. Yeah, something like this. You can increase the opacity if you want to or you can decrease it. It's up to you like something like this. You can put as blur right here but like 15 looks good or 10.
+
+Ctrl Y on the effect jaws uh and height but zero change spikes to rubber jaw and just increase a little bit right here. That's good. I'm going to create new adjustment layers. So Ctrl Alt Y but the light is a light race. I'm going to increase the radius and put like right here. That's good. Okay, that's perfect. You can go right here create an SL. So, control alt Y. But the looks again all those plugins everything have on my address pack. Okay. Doesn't have any malware doesn't have any advertisements or things like that. So, it is really
+
+easy to install anything you want to. I got this preset from my address pack. I just uh duplicate this. to control D and get one more looks preset. Okay, I get this one right here. Oh, just got the girl. Increase the exposure. You can put like right here. Oh, just increase the exposure right here. Okay. Can duplicate. Get those two layers right here. So, click on this one. Shift click on this one. Control shift C. button composition and I'm going to click on this one holding shift click on this one click on the 3D get the background press B like 2 press S increase and you can make
+
+animation so control alt shift C okay press B holding shift press A and enable So the key frames like right here and just change [Music] a little bit of the rotation with something like this. F9. Go to graph. I'm going to make this grush right here. As you can see, yeah, it looks very good. But you can make it even better.
+
+You can, for example, put some overlays. I got this overlay from my pack. Put right here. Change to for example color uh dodge and put like on the background. I'm going to just put you see color vibrance and put like um yellow something like that. You can add some particles as well. I got this one right here. I'm going to put on the background.
+
+And as you can see, look like this. It looks really good. I mean, really, really good. You can go right here, Ctrl A, enable the motion blur, and you can make a new um adjust blur right here on the beginning. So, Ctrl Alt Y by the S blur like 45. Click the blur amount, press E, and go some frames forward and put zero. That's good. Ctrl A, control shift C. Move auto boost on composition.
+
+But the post rise time like um 19. And as you can see, yeah, it looks like this for me. That's perfect. I really like it. And I hope you like it, too. Please check my back link in the description. and drop a like. And thank you so much,

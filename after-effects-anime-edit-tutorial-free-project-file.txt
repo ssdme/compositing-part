@@ -1,0 +1,37 @@
+[Music] [Applause] hey guys I'm kako and today we're going to animate this cool AI Anime boy all After Effects let's do it first I download this free anime image from pixabay.com then open it in Photoshop and I separated hair eyebrows face eye PS closes and lips with the help of pants and stamp now you can download this split Photoshop file from the link in the comments okay open after effects make a new HD [Music]
+
+comp then import the Photoshop [Music] file composition layer size okay I do the composition thing first then animate so right click and make a new black solid open it transform framing [Music] opacity first zero then [Music] 100 100 to Z Z 2 100 I think I know more
+
+code see now train the comp [Music] player press increase the [Music] scale add key 180 next one increase the scale [Music] move def frame the scale from the [Music] darkness to zoom in nice then draw a black
+
+[Music] rectangle make rectangle one duplicate bring it down with the selection tool uhhuh open rectangle transfer add position [Music] then change [Music] position cut the shap layer s like the last Keys press F9 now import music and
+
+dust I put them with the full music for you select dust set more than add place it on this solid [Music] and there are enough animates go to the character comp first I animate the hairs so the one add three pins then open the powerful afd hairy script which I put in the project file run well done don't forget to close AFP and do the same for the another
+
+[Music] hair solo 1 2 3 window AFP R for short hair two pins are [Music] enough and repeat it again and again [Music] [Music] [Music]
+
+[Music] good but it could be better now Select Hair and go to the effect control you can see the rig setting I just change amp frequency delay and random speed thin hair has a faster speed and thick hair has a slower speed now change the speed and smoothness with this setting of course you can do it differently [Music] [Music] [Music]
+
+[Music] oh this is the difference I said before [Music] incredible you yeah you thank you for being with me so far now tell me what kind of animations would you like to teach you your comments are valuable for
+
+me keep going now make the ipes [Music] bigger from 100 to 150 [Music] and the eyebrows rise at the same [Music] time with just three pins again select eyebrows press U [Music] change
+
+[Music] them again [Music] I like your [Music] eyes in the next step we need a background make a new solid of boy [Music] colors duplicate change color from layer solid [Music] setting
+
+okay mask it with a circle [Music] open mask set feather on 550 duplicate change the color to a beautiful yellow so more on divide at the end select cion solid sharing the MK add a scale then in cras set cheese press F9 see oh my God for mouth first add some puppet pin to the LS
+
+[Music] now we Sor cut in the main comp we determine the start and end point of the animate go back place the Clos liap keys at the marker then change the leap like a coolest smile [Music] [Music]
+
+now drw outline the leap with [Music] pin put it under the lip [Music] lays keep framing pass [Music] change [Music] it drw the Toots up and down
+
+[Music] press control alt home take them under the [Music] lips press R and shift p add rotation and
+
+[Music] position change them [Music] [Music] now take a duplicate from inside the mouth and put it at above the tooth again select the tooth and Setra met on alamat press contrl a then
+
+u s mouse keys and press F9 perfect now draw a star open it P A St pass set points on four inner radius 11 add radius on 42 inner roundness on 72 and outer roundness on 10 now keep ringing the position from edge of close Mouse to the [Music] open then
+
+rotation - [Music] 74 2 26 add a scale zero then increase again zero at the end key frame the outer radius 0 242 taada you're someone reason to smile go on I put some pins on his face to stretch his skin when his
+
+[Music] SM select face press U the timing is from lip move to the [Music] smile okay for closes I had separated in Photoshop now from effect and precess add wave warp by this setting and it's the
+
+[Music] result congratulations interesting tutorials are waiting for you so be sure to subscribe me if you like more of this good luck guys

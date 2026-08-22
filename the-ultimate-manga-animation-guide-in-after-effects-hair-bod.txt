@@ -1,0 +1,61 @@
+Yo, everyone. Welcome to our video, and today I'm going to teach you everything [music] about manga composition. I'm going to teach how to animate character, how to make 3D environments, and [music] much more. Plus, drop a like because it helps a lot. Stop wasting hours manually cutting out your characters. With Nova Vision, you can automatically structure characters with just one click. Simply upload your image, and the AI separates all the parts ready to animate in After Effects. The first 20 years will get 30% off. Try it now.
+
+Okay, guys. First, I'm going to make a new composition. Control N. [music] I'm going to use those configs right here. Just click okay, and perfect. The first thing we need is a character. So, I'm going to get my PSD, drop it in my composition for import composition, and just click okay. I'm going to place it right here.
+
+Double-click, and I can just hide my background, and I can go back. I'm going to make a a new camera. So, control alt shift C. Those right here it's going to be my settings. You can just copy them, and just click okay. Okay again. You can enable the 3D. Then, I'm going to get my floor. I'm going to use this one right here. I'm going to just drop it in my composition. Don't forget to enable the 3D. And for better visualization, you can go right here on view and change to two views right here, but cuz I'm on view one. Right here, I'm going to press R on this layer. Just change right here the X rotation to something like this. I'm going to get this X and place it right here.
+
+And I'm [music] going to uh add a motion tile effect. You can increase a lot. And I'm going to put my character further back like this. Okay. I'm going to get [music] this image as well, and I'm going to duplicate it, hide this one, and this one right here I'm going to enable the 3D, and place it really far away. Press S. You can increase it right here the scale, and place it like this. And on this one right here, >> [music] >> I'm going to just make a mask around this corners. I don't know what is that, but just make a mask around it. So, press Q, and I can make a mask like this.
+
+I'm going to enable the 3D again. And change to two views. Press S just increase them. Try to place it right here at the end of this layer. >> [music] >> Unlink this the scale right here, and you can increase it horizontally. >> [music] >> Like this. >> [music] >> As you can see, we have this problem right here.
+
+So, we need to fix it. To fix it, it's pretty simple. You're going to make a mask on the middle of those >> [music] >> bars. I don't know what is that, but just press Q. Make a mask. Like this. Press M. And right here [music] on this mask, you're going to just change to subtract. And you're going to do the same for those another parts right here. It's Perfect. You don't need to change one by one. You can just click right here, holding shift click on the
+
+last one, and just change everything at the same time. So, yeah. Here you have it. It's not that perfect, but doesn't matter that much. So, yeah. Whatever. Okay, that's pretty good. Let's put it right here. Change a little bit. >> [music] >> I'm going to select my character, control D, go press R, change the rotation. [music] Um as you can see, I have this problem right here. Just press Y, and place it at the middle of your character. So, it's going to be a way better to animate [music] it.
+
+Control D, press R, and just rotate it to something like this, and just try to mess with the settings. I'm going to increase it right here the scale. I'm going to again change to one view. [music] I'm going to uh add a drop shadow. Enable the shadow only. And you can increase [music] opacity, and increase softness as well.
+
+Until it looks something like this. And just unlink this layer, increase a little bit more. It's going to look something like this. Now, I'm going to enter [music] the character in composition. And I'm going to start animating this things right here. I'm going to just use a light this layer. So, click right here. Go to the puppet tool. And just make some points. So, I'm going to make [music] one right here, one right here, one right here, and one right here.
+
+Click on this one, holding shift click on the [music] others like this. Go to window, auto sway. If you don't have those plugins, softwares, presets, if you're having trouble finding those things, link in description. My pack have everything you need. I promise you. [music] It is really cheap lifetime access. So, yeah. I promise you're going to like it.
+
+>> [music] >> And have a a lot of renders cropped like this one I'm using right now. So, as you can see, it's everything separated. So, it helps [music] a lot to animate it. I'm going to just click apply, and okay, that's pretty good. >> [music] >> As you can see, I have this master control right here.
+
+I have these options. You can just increase the softness. Softness no, the distance, sorry. And increase the speed as well. Um till it looks something like this. Not that fast. Something like [music] this, you know. And we're going to do the same for the others parts like this one right here. So, make a points right here.
+
+Right here, right here, and right here. [music] Click on this one, hold the shift this one, this one, this one. Click apply. Just go right here on the master control, increase it right here the distance, and increase the speed as well. Okay, that's pretty good. You can press control A, [music] control shift C, move all to this composition, click okay, and get this anchor point and place it I guess. I don't know. Maybe right here.
+
+Let me [music] see. Yeah, maybe right here. Press R to open the rotation property, and holding alt I'm going to click right here. You can type it wiggle I guess one {comma} 10 something like this. So, the character is going to make this movement right here. I can decrease a lot of uh of the speed.
+
+Maybe something like this. I don't know. I I I can change later. So, yeah. Right here on the camera, I'm going to press P, holding shift press A. [music] I'm going to mark those keyframes. I'm going to go like on this two frames forward, and just change right here the position till it looks something like this. Okay.
+
+So, we're going to have this animation right here. Um yeah. It It It looks good though. So, I'm going to make a new solid. Control Y, and it's going to be our black bars. Right here on the color, I'm going to press zero to go to black color. Press enter enter, and add a CC jaws effect.
+
+Right here, spikes are going to >> [music] >> change to rubber jaw, change the height to zero, and increase the complexion until it looks something like this. Let me see. Something like this. Okay. I'm going to add [music] two adjustment layers. Control shift Y, control D. On this one [music] right here, I'm going to add the S flicker.
+
+I'm going to decrease the amplitude to something like this, and I'm going [music] to add a posterize time effect. So, it basically is reduced the FPS of our composition. You don't need to add this effect, but to me it looks way better with it, you know. So, you just change to 15. That's pretty good. To make that shake effect, it's pretty simple actually. So, I'm going to add an adjustment layer. Control shift Y, and add S shake like this.
+
+Um okay. I'm going to just decrease right here the amplitude to something like this because that way the camera doesn't move too much to the side. And I'm going to increase the frequency to have this turbulent camera shake, you know. Like this. I'm going to add this spill lines right here. I'm going to invert.
+
+I'm going to stretch this layer like this. And [music] I extract. I'm going to place this layer right here. Increase the scale. Till it looks something like this. And [music] right here at the beginning of our composition, I'm going to add an adjustment layer. Control shift Y, and I'm going to add one frame effect. I'm going to use one from my assets pack.
+
+So, again, link in description. I'm going to go one frame forward, and control shift D, and just press that. Okay, that's pretty [music] good. And right here, I'm going to add another adjustment layer, control shift Y, and going to add the hot spot to make this really cool >> [music] >> effect. I'm going to just increase the threshold to be something like this.
+
+I I'm going to add some effects at my background to have [music] more red, you know, to have a red sky. And I'm going to first decrease right here the curves. Increase the contrast, and you can >> [music] >> just increase right here the redness. Right here, the cream. Not that much. Add a little bit of the color vibrance.
+
+I will change to red. I'm going to decrease the vibrance right here. And try to mess with the settings until we find us something [music] good. And now you can [music] start adding some effects at our character. So, control D. I'm going to add drop shadow, set matte, and see composite. Right here, I'm going [music] to say what RGB only, change in front to multiply, and just enable the shadow only right here. I'm going to increase
+
+the opacity. Right here, I'm going to change the direction to be something like this, and increase the distance. Something like this. I'm going to duplicate [music] this layer, so control D, and I'm going to increase the opacity to 100, and add a deep glow. Go to excess mode, change mode to add, just increase the exposure.
+
+So, you're going to have this effect right here. Add this uh let me see. Add this floor right here. I'm going to add curves, just increase a little bit of the brightness. So, it matches our entire composition. Control C, and I just can paste that on this Let me see. This right here. I'm going to add some color corrections.
+
+And all of those color corrections I'm going to use it from my latest pack. So, to use our presets, it's pretty simple. Control Y, go to animation, and apply animation preset. So, it's going to look like this. I can just decrease a little bit of the exposure, increase the distance. Um right here at my background, we can add a blue cake. Um I guess 10 looks pretty good on the blur radius. And we're going to add some blur flickers. Uh it's pretty simple, actually. Control shift Y, I'm going to add a blue cake, and just going to isolate this layer right here. And just click right in the blur radius, press U.
+
+And it's pretty simple, so we have our key frame right here. We're going to go some frames forward, go some frames forward, just copy, control C, and get this first key frame, control C, and control V. Paste it right here. Control C, control V. And here, control C, control V. And you can just copy those key frames.
+
+Control C, and just paste that. [music] I'm going to select all these key frames, holding alt, and you can just space it like this. I'm going to use it this uh overlay right here. I used it in Nana Banana to animate it, so yeah, you can use it as well. I'm going to change to add, place it right here. Control alt F to fit your composition, and I'm going to just go some frames forward, control shift C, and press that. Oh, you can press T right here, click right here, go some frames forward, press zero.
+
+Perfect. And I'm going to place that right here. And right here, I'm going to add another adjustment layer, control shift Y, and I'm going to add a shake preset. I'm going to use a twitch one. Okay. Control shift D, press that. And I'm going to use it this right here as well. I'm going to just disable all these adjustment layers because it's very heavy. Um >> [music] >> I'm going to just add a hue saturation, change to red.
+
+Like this. Add a deep glow. Add a little bit of the color vibrance, >> [music] >> and change to red again. Just increase the exposure, the radius. And change to add. I'm going to go right here, and stretch this layer. And place it right here. Press S, increase that. And I'm going to place this right here.
+
+Just right here. Cut a little bit of this layer. Okay. And that's it, guys. I really hope you like it. Please drop a like. Helps a lot on my channel. So, thanks so much, [music] and have a good one.

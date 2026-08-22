@@ -1,0 +1,23 @@
+back SP wait before watching this tutorial make sure you see the first part of this video from the top right corner or from the description but if you've already seen it came from part two then welcome back Amigos uh the first transition I'm going to teach you is frequently used by go in many of his edits so make sure you absorb carefully what I do start by adding around four n layers for this I use a script called anos which you can find in the description I'm just quickly blur and add doarts after that I start with the transitions make two three shms and set their varies like [Music] this easy EAS the key frames and create
+
+a loose grop dripping lights paint the skies only once again on the second n layer create a zoom out from scale 100 to [Music] 60 select the speed graph and follow my [Music] lead now we're going to create a screen pump on the third null layer create an animation from scale 100 to 250 [Music] and on the first n layer animated back
+
+to normal using the speech drop alive Make It Last Forever stop time your [Music] arm for the Shake simply copy and paste the as Shake we made in the last video and then change the phas to [Music] 8.3 Advance a few frams and place a key frame for the amplitude then animate it a couple of times and easy [Music] easy prompose it and duplicate the layer following that I draw a rough mask for
+
+the bar movement I prefer using the great to ensure smoother [Music] movements to animate The Mask double cck on the edge and Pull It downwards or upwards make [Music] add invert to the bottom [Music]
+
+layer you got I know you got feel I know [Applause] you're you got to feel I know you got feeling you got add s swap transform and animate scale [Music] y
+
+[Music] [Applause] [Music] for the impact add s dissolve shake and follow my [Music] instructions the amplitude determines the overall strength of the shake Place key frams and create the shake using them you got
+
+feel apply the same Shake by slightly adjusting the values and other bits as well [Music] also add opix compensation and animated for a warpy [Music] [Applause] [Music] effect [Music] [Applause] [Music] [Applause]
+
+it seems I forgot to mention the W but nevertheless add it on the same layer change the W mod to fish eye and animate the [Music] blend [Music] these are the basics but if you want you can further enhance it by adding turbulent displays just make sure to follow my [Music] instruction [Music]
+
+[Music] and with that we're done with this transition as [Music] well [Music] now for the shakes simply copy and paste the dissolved shake that we made earlier onto all the other Clips just make sure to remove the extra key frames specific to that [Music] l once everything is done precompose the main layer also I off often receive many comments on how to get the live preview
+
+on my channel so I'll quickly show that as well add the Remake clip you want on the top most layer and and so it remains above all the layers then scale the clip down and position it on the screen if you're concerned about making changes to that layer simply hit the lck button to avoid any possible subconscious mistakes while the B movement should be basic I'll still explain the fundamentals for beginners watching this video now moving on to the bars create a solid layer and add CC lws to it reducing the height parameters the completion determines the amount of black bars you will actually get so animated to create moving bars the standard values for these are usually 9200 or [Music] 8,200 the direction determines whether
+
+it will be horizontal or vertical if you input 0 or 180 it will be vertical but with values like 90 it will be [Music] horizontal uh you can also modify the graph for more control over its timing uh I hope you understood it as I don't want to spend any more time on this again precompose the layer and add RS smv if you want that extra smoothness now for the color correction part create three adjustment layers and first add s you s d from Sapphire and follow my
+
+[Music] instruction the second null layer will be for detailing if you want further justification and explain explation on detailing and coloring from a beginner perspective you can watch the color correction tutorial I made from the top right corner of YouTube all from the description on the third layer add magic bullet looks and follow my [Music] setting [Music]
