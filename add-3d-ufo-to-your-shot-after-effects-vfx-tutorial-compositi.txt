@@ -1,0 +1,13 @@
+[Music] the navy says it still doesn't know what the objects are and officials aren't speculating the objects seen in various clips are unidentified [Music] what [Music]
+
+so [Music] foreign [Music] [Music] hey guys in this tutorial i'm gonna show you how to add a 3d ufo to your shots using adobe after effects let's get started first we need a background shot where we're gonna insert the ufo
+
+then i downloaded this 3d model from sketch map you can also use sites like turbosquid or free3d there are plenty of these models just find what works for you now let's open up after effects start off by placing your background shot on the bottom of the timeline and select track camera once this is done hit create camera [Music] next create a black solid [Music] to get the ufo in our shot i use the element 3d plugin so import the 3d model and click normalize size and then import all the textures and hit ok
+
+[Music] next go to group 1 and create a group now to make the ufo hide behind the house or cottage duplicate the background shot and grab the pen tool [Music] create a mask around the roof and animate it now use the position and rotation of the groove null to animate the ufo [Music] also we can add a little wiggle expression to make the animation look a bit better hold down alt and click the stopwatch icon then type in wiggle and choose the frequency and intensity you like
+
+and further tweak the animation till you get the look you are going for to make the ufo go behind the trees duplicate your background shot again search for extract effect and apply these to the duplicate [Music] play around with the settings to get rid of the sky [Music] additionally duplicate the black solid which is our ufo and go to output and select show illumination also set the layer blending mode to art
+
+and add a subtle blur [Music] [Laughter] to make the ufo blend with our shot even better we can place some of the clouds in front of the ufo first duplicate the background shot once again and disable the visibility for now use the pen tool to create these shapes and apply roughened edges effect [Music] and fast blur effect to the shape layer then make the shape layer 3d so that it can move with the camera and use the sky layer as an alpha matte
+
+furthermore reduce the opacity of the sky layer and we are done if you like this tutorial please give it a thumbs up and consider subscribing i'll see you in the next one you

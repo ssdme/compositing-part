@@ -1,0 +1,61 @@
+Okay. Um, welcome to my composition tutorial. [music] If you guys need have any questions or need anything, make sure you join my server, link in bio. Or yeah, link in bio and in the description. [music] You can also add me on Discord. Um, my user probably be on screen right now. So, first you want to I would say have your clip just [music] dragged in here, time remapped and everything. Um, and the first step is to rotobrush your characters. I already rotobrushed one.
+
+They don't have to be very, very [music] exact, but they should be generally pretty good. So, I will go over how I rotobrush or how [music] I'm going to rotobrush the next one. So, basically first, I'm going to duplicate whatever layer I [music] have like this uh by holding the precomp or whatever your clip is [music] and pressing control D. And then you want to click on the rotobrush tool here or you can just press [music] alt W.
+
+But before we do that, I'm going to add a few effects on here. First, I'm going to add curves. And I'm going to drag the [music] curves like this. And I'm also going to add sharpen and just turn it up a little bit. It might look weird, but trust me, this will [music] help the rotobrush actually identify what lines are what and get better selection. I might have a little bit of trouble with this, but just going to see what we can do.
+
+Then, you just want to go here and you want to just color in whatever you want. As you can see here, it's it's like [music] all right. Um Uh by the way, to grab and move around, I'm [music] using I'm clicking on my scroll wheel. And zoom in is alt scroll up and down.
+
+Um, and then you want to press alt here when you have the rotobrush and basically [music] just like mask out the parts that you don't want. So, yeah. There is our rotobrush. The important thing to to know is that you don't want to delete these effects yet. And first, what you want to do is actually um click this freeze button.
+
+It freezes everything [music] that's happened with the rotobrush. And it'll say it's frozen. Um that is what you want cuz now when we delete these masks [music] or these effects, sharpen and um curves, it'll still apply [music] that mask. Um with like the as if the effects were still on there. Um also, I forgot to mention, but on your layer, you do want to reduce chatter and [music] make this 100%. Um basically, all that really does is just it [music] just tries uh or attempts to like stop the flickering. So, with everything, we're going to add a solid layer.
+
+And then we're going to put Trapcode Particular. Uh this is [music] uh this is kind of a heavy effect, so um basically, what we're doing now is making ambient [music] particles. And I guess basically, this is just like simple particles that don't move as much and there's not a lot. You can just substitute this for an [music] overlay, but for the people who are following this tutorial and don't want to use an overlay, um you can literally [music] just copy what I'm doing.
+
+Um yeah. I'm not really going to explain this too [music] much because uh it's this is a this is just like one step of like [music] the process and I don't necessarily think it's that um that serious. Um because you can again just use an overlay or just copy my settings exactly. Yeah. So, size, I'm going to go like maybe like 1.5 or two, something like that.
+
+And then [music] if I go to motion, you can change the velocity. Usually, depending on the clip, I'll adjust this, but I just wanted to fire it up kind of fast and then slow [music] it down. As you can see, we have our particles now. >> [music] >> Um yeah. See, that's some nice particles going bad, but they kind of seem [music] a bit strong. But we're going to add Gaussian blur and then turn it up a little bit. Make it blend in with the scene [music] more. You can add deep glow if you want. Um you don't have to.
+
+Okay. So, the next step [music] is to add a optical flare um above your particles. So, we're going to add a solid layer and change the blending [music] mode to screen. If you're on AE 2025, then just toggle switches and modes and you can see that. Um yeah, so we're going to add optical flares.
+
+Go to options. So, now you can build your [music] own flare. Let's say in this video, I'm just going to use like one of my favorite presets. And yeah. So, basically, you want to take wherever your light source is, obviously. [music] Where mine is. We're going [music] to add some Gaussian blur again. Uh I kind of just always use it, so you don't have to use this.
+
+Um you can also scale [music] the size, change the brightness, change the positions of these. I put it to the corner cuz this is where I want to have my light source from. And then this is kind of like where the [music] flare is itself. Uh as you can see, we do have a little bit of uh bad rotobrush [music] here, but um don't worry, we'll fix that later.
+
+Okay. So, now what we [music] can do is add an adjustment layer over um Reze or Reese, whatever. [music] Um and add yeah. Add adjustment layer over it. Um this depends on your scene. Everyone's scene is [music] going to be different and this is just something I have to do for mine. So, yeah.
+
+But we're going to go to I believe it is gradient [music] and kind of just make her darker. Like this. Um yeah. And drag this here. I don't want it like that dark, but a little bit of shade. Also, we can um also add another one if we wanted to. Like this. Um yeah.
+
+Just like that. I did move it above the layer or above both the characters [music] just because um I realized it looked better cuz I did the Magic Bullet Looks for both. But yeah, um so, this is what we have so far. I might [music] have to change the flare um a bit, but yeah, the flare will most likely [music] more than likely like change.
+
+Um I'm literally just going through these presets [music] and figuring out what I like or which one I want. I'm just So, this is what we have so far. And let me >> [music] >> just break it down. We have an adjustment layer with Magic Bullet Looks and we put gradient on them with the to basically show [music] what's dark and what's light in here.
+
+Our rotobrush character. Under that, we have our optical flares. Under that, we have our second character. Under all of that, we have our um particles or if whatever case, you're using an overlay. And then we have our background. So, um yeah. This is like around what we should have. Um I'm wondering what it would look like if we just added up to Denji, too. Might look better.
+
+As you can see, it doesn't look that bad. Um >> [music] >> yeah. So, basically, now what we're going to do is try to um add just a little bit more of a feel >> [music] >> or yeah, a little bit more stuff to it. So, we're going to add a solid layer um again, [music] over our background or yeah.
+
+And then add nebulosity. Once we add nebulosity, [music] we're going to go down to this base form thing. Turn down Turn down [music] Yeah. Turn down the intensity. As for transform, [music] I'm personally going to scale it up. You don't have to. It all depends [music] on what you want for your scenes. And we're just going to change the width as well while we're at it.
+
+And the height. Maybe add a little bit. Uh like about like this. Um yeah. All right here. Scattering. My bad. And change this emission color. Um for colors, whenever you're picking something, I like to just go off of like a color in the in the scene in general. So, that's what we're doing. Then what we can do is add some Gaussian blur.
+
+Again, you can blur it like this. [music] Um again, but it does look does get a little messy, so uh you could just like literally turn it down a little bit. Just so [music] we have a bit of fun going on as you can see here. Um yeah. So, we got a little bit. You can also move it so that it's not just static all the time. So, if you press the keyframe on position and you know, you can just like shift it like this or shift it like this, because he's moving that way. Um It's up to you.
+
+I usually don't graph [music] it. I just kind of like let it go by itself. [music] Yeah, I like that. Yeah, there's something simple like that. Um this is all to you. You know, it's not that big of a difference, but yeah. It's pretty good to me. Next, what you can do [music] is you can just go on here and add all of your um color correction stuff.
+
+But, for me, I'm just going to make it another adjustment layer to make stuff [music] easier. I'm going to add curves on here. >> [music] >> And basically, what I'm going to do is I'm just going to adjust what I need to adjust for the most part. Make >> [music] >> um Curves kind of just makes the darker stuff darker, lighter stuff lighter.
+
+This is very simple. [music] I'm not going to crazy with this. Now, we're going [music] to add Magic Bullet Looks for CC. Um Yeah, we'll see how I um [music] for me, I don't think it really matters, but it depends on if you want to have your [music] curves above or your curves below the Magic Bullet Looks, but I'm going to see how it looks like after I add my stuff. So, yeah.
+
+Here on the left, we have some presets. [music] Um you can just use presets. It's usually what I do. [music] I use presets, and then I just kind of adjust it to what I want. Um overall, I think uh some of them seem too strong. I'm going to add some edge [music] softness onto this.
+
+I'm going to I'm going to look through the what's filters window. And boom. There's some [music] slapped on some CC onto it. Uh see it before CC, after CC. This does looks [music] pretty This does look pretty good. This looks this. I think having the nebulosity would be good there, though. Yeah, um I'm pretty happy with this. Um we're not quite done, but there would be some [music] more stuff to add here. Okay, so here's another thing that you can do to add more shadow on your character is you want to duplicate it.
+
+Uh whatever like [music] you have your character on, add drop shadow. Click shadow only, and then put on Set Matte. And then basically, with this, what you can do is [music] basically make a um shadow. And make it affect your thing. I think it's like No, 180 [music] is I'm stupid. It's 90° angle.
+
+So, basically, [music] something like this. I think I forgot to add to this. You should add CC [music] Composite. Sorry, I'm kind of like dozing off in in this tutorial. You can change the distance and the softness. Boom, you got like another shadow. Here's our very I wouldn't say the best, but it [music] is a composited scene. So, do with you what you will with this.
+
+Um you can also [music] Some people don't add enough flares. Some people go too [music] crazy on flares. You can really do what you want. See, me duplicating just one >> [music] >> uh layer kind of made it look better. I could have just scaled up the the previous one, but yeah, this is [music] basically the finished result. All right, and I'm going to put these side by side, [music] so you guys can see the difference. So, yeah, here's our Here's our final composition. Um I'm like an I suck at this, so uh this is just what [music] I've learned so far and what I know of.
+
+If you guys have any tips [music] for me, or even tips for others, uh make sure you comment them down below, and I'll try to I don't know, I'll somehow [music] try to If I ever do another tutorial like this, I will try to mention those, and yeah, um thank you guys for watching.
+
+Make sure you subscribe, like. Uh if you join my server, that's where I host polls where um my what tutorial I'm making is next. Um and obviously, composition [music] was voted this time. So, yeah, if you guys have any other questions, again, join Discord. Discord link in bio and in the description of this video. [music] Um and yeah.

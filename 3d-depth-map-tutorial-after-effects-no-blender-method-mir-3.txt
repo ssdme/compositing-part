@@ -1,0 +1,11 @@
+doing the 3D depth map. I did watch the the video that explained it. I did the thing. There's also good, but it's just not viable, especially considering my PC takes like 3 minutes to render one frame. So, I decided to find out a method that would work in uh After Effects without needing Blender.
+
+So doing some research, I heard about the mirror plugin which can create like 3D surfaces. That's how I came up with this. What you need is of course a clip such as this. I I don't even know a depth map. So yeah, this is the depth map I got. Uh as you can see, it's very flickery, which is bad. So I'm going to def flicker it.
+
+Apply diff flicker. High speed. It looks a bit better as you can see. Once you have everything ready, you want to create a new solid and apply the mirror effect [Music] uh on it. You want to size it uh roughly the same size as the as the comp. You just go like 1080 by you just go like that, I guess.
+
+But there's still some parts missing. So I I I like to extend it a bit further so it just fills the screen like this. Then you just increase the vertices so to like 500 something so it's more detailed. Um going to go to the fractal tab uh and select the amplitude layer as your depth map. And now you're gonna reduce the frequency to like zero or one and play around with the amplitude. And as you can see, it starts creating this like 3D model, like kind of a 3D depth map. So you want to go in the negative so it's like it goes forward, if you know what I mean.
+
+I'll show you what I mean. Um, yeah, as you can see here, it's it's it's going forward. And if I if I go in the positives, it's like kind of going back backwards in a sense. So, yeah. And after that, you're going to go in the texture tab and put the original clip as the texture layer. So, yeah. Now once we have this uh 3D kind of effect, what you want to do is hide this layer.
+
+Uh make it 3D. Put the trackmat here to lumat. Add some blur on the original like Yeah, this should be fine. You can already see it's a bit like it lacks light if that makes sense. And now you just add a 3D light inside After Effects. And there you go. You got your 3D uh light effect. I'm still experimenting with this. So if you know anything that could improve it, uh please tell me cuz I I I don't know what I'm doing. So but yeah, that's it. Five.

@@ -1,0 +1,21 @@
+Let's use the rotor brush three with the help of generative fill to transform our background. and I'll show you a few tips and tricks along the way. Let's dive into it. Okay. I have my clip here, and I'm going to take a screenshot to help generate my background. So I'll go to Composition Save Frame AZ file.
+
+and I'll open that rendered SD in Photoshop. All right, now I'm in Photoshop with my screenshot and I'll click select subject and I'll click on Select inverse and delete the background. So real quick, before we go any further, I'm excited to share a super powerful tool that can supercharge your creativity in Photoshop. It's called Image Creator, this free air plug in unleashes the power of stable diffusion and similar models, allowing you to generate stunning artwork from text descriptions with ease using text to image.
+
+save tons of time by intelligently filling in areas with the fill feature within the image creator plug in users can access thousands of AI models on model hub meeting the needs for creative expressions in any style. So get that creativity going and download image creator for free. The link is below in the description.
+
+All right, let's dive into Photoshop. Now I'll use generative fill and I'll type in my prompt to generate an urban explorer setting. After a few prompt adjustments, here's what I got. Now I'm just going to clean my scene up. I'm going to select my subject and just do an empty prompt to generate. And that should remove her and I'll clean it up a little bit more.
+
+Now we'll go to layer, merge, visible and jumping back to after effects. I'm going to start rotoscoping my subject. I'll double click my source clip and select my rotor brush or hit option W and using the green brush, I select my subject. To change my brush size. All I have to do is hold command in mouse up or down.
+
+just hold option and the brush will turn red and it'll remove that specific part. So now I'll just clean up some of the details here. I'll switch over to my refine edge tool by hitting option W again and it'll turn almost a purple And now I'll just outline my subject here to give some flexibility with my edge to work with if I need it.
+
+Once I'm good with that, I can change my view on the bottom panel to see my roto. Okay. That actually looks pretty good. So if I want to adjust my settings here, I could. And because I outline the subject edge, I can adjust the settings, I can adjust shadow reduction, smoothing, feathering, etc.. and a quick rotoscoping tip once I have my roto looking good like this and I want to proceed with more work in the comp, I could pre render my roto layer and speed up my computer.
+
+So with my roto layer selected, I'll go to composition pre render and I'll make sure it's exporting with alpha channel render and bring that into your comp replacing your rotor brush video layer. And let's actually keep our Roto Brush source layer will hide this because we'll need this for tracking. So now I'll grab my new background I made earlier the D and I'll drag that into my comp with my original video layer selected.
+
+I'll go to Animation Track and Burruss Effects MOCA, click on the mock icon and MOCA will pop up, and we can grab our explained tool. I'm going to grab a few points in my background with a good amount of detail and contrast. Now I'll hit show surface and hit a line surface. So my track layer keeps the proportions of the column.
+
+Now we'll track forward and I'll speed this up for you. And once that's done, I'll hit Save and I'll close out MOCA jump back to After Effects, drop down my tracking data and hit create track data hit. Okay. And in layer export too, I'll select my background and hit apply export. and this is going to apply all the data to that background layer That looks really good.
+
+and one last finishing touch that I did was I added an adjustment layer with a camera lens blur and animated the mask to go along with my subject. This mimics the focus adjustment of my source clip and just sells the effect that much more. Here's the final result.

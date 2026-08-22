@@ -1,0 +1,13 @@
+[Applause] [Music] You want to composite your character into a scene. Compositing generally has two parts, coloring and lighting. First off is coloring. Add curves to your character layer. Isolate each RGB channel and change the appropriate curves channel. Try matching the brightness levels of your character to that of your scene for each channel. For me, the blue channel needs the most changing as my character is mainly blue.
+
+[Music] [Music] It already looks a lot better. Now we move on to the long part, lighting. Pre-ompose the layer and then duplicate it. Position the shadow on the character in a way that makes the most sense. I plan to have most lighting come from the right side. So, my shadow will be positioned on the left of the character.
+
+[Music] [Music] Once done, pre-ompose the two layers. Now pre-ompose your background layer as well. Duplicate your character layer. Add crates light wrap to character layer. [Music] [Applause] [Music] Now duplicate again and add CC light
+
+sweep. [Music] The light sweep should be on the side your light is coming from. [Music] [Applause] [Music] Add deep glow. [Music] [Music]
+
+[Music] [Music] Time to actually add height. Create a solid and add optical flares to it. Pick a template and position it in your scene. Change the color to match your light
+
+sweep color. [Music] I'm going [Music] be Hey,
+
+down. Heat. Heat. N. [Music] Heat. Heat. N. Heat. Heat.

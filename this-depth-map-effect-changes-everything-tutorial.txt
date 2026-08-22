@@ -1,0 +1,7 @@
+Do you want this effect, but it looks too complicated and it looks like you need to mass every single frames for 5 seconds? Well, welcome to another visionary tutorial. I'm Riri, and today I'm going to show you the quickest way to transform your death depth map. So, this is my clip time remapped, and I'm going to pre-close this clip. Go into this clip, duplicate it, and add quick depth. I use the BSKL plugin for my depth scanner, but you can use any because it works the same. So, I'm going to choose I'm going to apply it and increase the quality to 700. Then I will pre-ompose this and name it map.
+
+Yes, you're going to And then I will go ahead and do S invert because I want my fog to be white. And then you're going to add a dissolve lumo. So you just technically drag this until you get it like this. It's honestly really really simple when you get the jits of it. So yeah, if you want it to be um black like my in my edit, you still have to apply the S invert because if you don't, then it'll look really weird. Just reapply the S invert like this. Oops.
+
+like that and you'll get the black fog. So yeah, very quick and simple. So yeah, by the way, Visionary has our own ultimate editing pack for you. You can find it in the link below. And if you want to stay connected, join the Visionary Discord where we share updates, drops, and community events. Thanks for watching, and I will see you in the next one.
+
+>> For more Visionary Studios tutorials, make sure to check out our website.

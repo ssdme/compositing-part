@@ -1,0 +1,27 @@
+So, today I'm going to be teaching you a way of composition your your clips or your edits. This is going to be a basic composition tutorial. Cuz I've seen like a lot of people make a lot of stuff like they rotoscoped their character and all that. But I just want to say it's going to be a basic tutorial.
+
+Um So, I already have my clip here. First thing you're going to do is make an adjustment layer and you're going to add fractal noise. Right? Um the fractal type uh you're going to leave it like this. Then the noise type you're going to change it [music] to this one, the last one. Um the overflow to clip.
+
+This this one here to four. And the blending mode to overlay. Right? So, then you're going to make uh a keyframe at the beginning and one at the end. And you're basically going to move the fractal noise, right? Maybe like here or here. I think I want it like like here. You can copy my my settings, though.
+
+So, you see you have your fractal noise moving. So, now go to the blending mode of the layer and you can mess with all of this. Whatever um seems better for you. But I recommend you to use um these three right here. Uh in my case, I'm going to be using soft light. As you can see, you can still can see like a little of the fractal noise moving, but you can use uh hard light, which is more visible, or even overlay, um it's pretty much the same.
+
+But, it really depends on the clip selection you have, right? So, you can test um every blending mode. I'm going to be using soft light. And I think I'm going to change the evolution. Yeah, like that. Um so, now next thing, you're going to make another adjustment layer. And we search for uni.dark spotlight.
+
+Uh as you can see, it makes like a circle here. So, check this two right here. Um and basically [music] you're going to make this little circle, um like a lot bigger than you see here. So, uh you're going to mess with these two options. You can either make it to your preference, or you can copy my settings.
+
+Maybe like this is okay, and then uncheck this one. I like um placing the position to the on nearly close to the head of my character. Like this. So, I have this. Um so, now you're going to make another adjustment layer. And add uh curves. Right, >> [music] >> um and copy my my uh my graph here.
+
+You want to make the clip uh a little more brilliant brilliant and make it a little more exposure and at the same time with some shadows. Well, like this is okay. Um but as I said, it's it depends on your clip. You can change this the exposition like to less or more. I think I want it here. This is okay.
+
+So, uh now the last thing you're going to do is you're going to make uh a solid. Make sure it's uh black solid. And add optical flares. Now go here on options. Then here on preset browser. You can choose one of these um three options. But I like using more uh the light one.
+
+And exactly [music] this one right here. Uh um All right. Now go here on the blending mode again. Uh and choose either add or screen. So, I'm going to be using screen. [music] And you can change the position XY to whatever position you want. Maybe like this or like this. Well, I think I'm going to let it like this.
+
+Yeah, this is okay. Uh and you can increase the scale and the brightness to your uh whatever you want. Like this, and you can move it the position, too. Um but yeah, you have this. And you can change here on the flicker, you can uh mess with these two options. Like if you want it um really, really, really fast, [music] and the amount.
+
+Let's say I want like this, and like this. And you can see this thing right here um has a flicker effect. Um Well, and lastly, uh you can here on the curves layer, you can add to uh three tone. Um I really like using like the highlight, midtones, and shadows of the clip I'm using. Like, for example, the shadow here, I'm using this.
+
+Then, the midtones, uh I like using I don't know. Uh this right here. And the highlight, I'm going to choose the skin color. So, you probably have something like this. Um I recommend you to blend it with the original source, like 50%. 50 or 70. Um I like more 70%. So, now you have this.
+
+And yeah, that's it. I hope you understood what I said. And if you have any suggestions for another tutorial or you have any questions, let me know in the comments. But, yeah.
